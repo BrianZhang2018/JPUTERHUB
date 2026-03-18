@@ -1,0 +1,6 @@
+jupyterhub_env/
+runtime/
+jupyterhub-proxy.pid
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
